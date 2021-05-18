@@ -20,13 +20,13 @@ File code dapat di akses pada ![link berikut](https://github.com/RinRoya/Percept
 
 3. Contoh soal 1
 
-![image](https://user-images.githubusercontent.com/49511033/118457760-48062500-b724-11eb-868f-87f0a3e60f0e.png)
+![image](https://user-images.githubusercontent.com/49511033/118577500-b692c380-b7b4-11eb-9077-de382bd5a92e.png)
 
 4. Contoh soal 2
 
-![image](https://user-images.githubusercontent.com/49511033/118457849-610ed600-b724-11eb-9ad9-bdf7a20cc027.png)
+![image](https://user-images.githubusercontent.com/49511033/118577529-c7433980-b7b4-11eb-8bf6-8b22794bcd56.png)
 
 5. Visualisasi hasil
 
-![image](https://user-images.githubusercontent.com/49511033/118457954-76840000-b724-11eb-8d3e-6e4078a2415c.png)
+![image](https://user-images.githubusercontent.com/49511033/118577570-d88c4600-b7b4-11eb-8f0d-cb896776fa3b.png)
 
